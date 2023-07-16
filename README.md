@@ -10,3 +10,6 @@
 * Chi-square Test
 * Business Insights
 * Recommendations
+
+**Reference**
+* scaler.com
